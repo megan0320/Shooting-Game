@@ -1,0 +1,8 @@
+#include "resource.h"
+ 
+//---------------------------------------------------------------------
+ 
+ 
+// *Sound Files*
+ 
+IDW_DING     WAVE       "music\gunShot1.wav"
